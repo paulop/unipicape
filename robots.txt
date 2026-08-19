@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unipicape.com.br/sitemap.xml
